@@ -1,0 +1,10 @@
+{
+  "port": 8888,
+  "database" : {
+    "port": 5432,
+    "url": "localhost",
+    "user": "dost",
+    "password": "changeme",
+    "database": "afriqueatdb"
+  }
+}
