@@ -14,7 +14,6 @@ function getby(data) {
     return user().where(data)
 }
 
-
 function add(data) {
     return user().insert(data)
 }
